@@ -1,4 +1,6 @@
-# Full-stack MERN app
+# Memories
+A simple social media app to create and view posts built using MongoDB, Express, React and Node.js 
+Check out the app at https://sharing-memories-app.netlify.app/
 
 ## Dependencies
 Server
@@ -17,9 +19,4 @@ Client
 - @material-ui/core: for UI
 
 
-## Reference docs
-Client side - React
-Server - Node.js
-
-Run ```npx create-react-app ./``` in client to initialize app.
-Add ```"type":"module"``` in server/index.js for easy imports after "main" and ```"start": "nodemon index.js"``` under "scripts"
+Backend deployed on Heroku at https://memories-mernproject1.herokuapp.com/
